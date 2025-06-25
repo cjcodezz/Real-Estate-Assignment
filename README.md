@@ -9,7 +9,7 @@ This is the solution for the Real Estate Assignment Provided
 
 A complete real estate platform with admin dashboard, property listings, and booking system built with modern PHP practices.
 
-![System Preview](screenshots/system-preview.jpg)
+![System Preview](real-estate/screenshots/system-preview.jpg)
 
 ## ✨ Features
 
